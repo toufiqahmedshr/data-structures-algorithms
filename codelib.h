@@ -70,3 +70,9 @@ public:
         std::cout << nl;
     }
 };
+
+// linked list data structure
+class List {
+private:
+    
+};
