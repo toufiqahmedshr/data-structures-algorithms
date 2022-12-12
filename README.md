@@ -9,6 +9,9 @@ This repository has all the data structures and alogtirhms I have learned in my 
 - Queue and Circular Queue
 - Linked List
 - Tree
+- Binary Search Tree
+- Heap
+- Graph
 
 ## Algorithms
 - Linear Search
